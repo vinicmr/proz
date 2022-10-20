@@ -1,0 +1,11 @@
+nome: caractere
+cpf: número inteiro
+rg: número inteiro
+altura: número real
+endereço: caractere, número inteiro
+
+José Almeida da Silva <- nome
+12345678900 <- cpf
+9517530 <- rg
+1,78 <- altura
+Rua A, 380 – Centro – Recife/PE <- endereço
