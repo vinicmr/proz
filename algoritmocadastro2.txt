@@ -1,0 +1,23 @@
+caractere <- nome
+inteiro <- cpf
+inteiro <- rg
+caractere, inteiro <- endereço
+caractere <- cidade
+
+inicio
+escreva("Qual seu nome?")
+leia(nome)
+escreva("Insira seu cpf:")
+leia(cpf)
+escreva("Insira seu rg:")
+leia(rg)
+escreva("Qual sua cidade?")
+leia(cidade)
+escreva("Digite seu endereço:")
+leia(endereço)
+
+escreva("Nome: ",nome)
+escreva("CPF: ",cpf)
+escreva("RG: ",rg)
+escreva("Cidade: ",cidade)
+escreva("Endereço: ",endereço)
