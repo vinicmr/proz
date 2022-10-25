@@ -1,0 +1,22 @@
+Resolução CODEPARK aula 3.1
+
+VAR
+nome <- caractere
+reservas <- inteiro
+fumante, animal <- caractere
+
+inicio
+escreva("Digite seu nome:")
+escreva("Reserva para quantas pessoas?")
+leia(reservas)
+se(reservas >= 5) então
+escreva("Sua reserva será no 1º andar")
+senao
+escreva(É fumante ou tem animal de estimação?")
+leia(fumante, animal)
+se(fumante, animal = sim) então
+escreva("Sua reserva será na área externa")
+senao
+escreva("Sua reserva será alocada no térreo")
+
+fimse
